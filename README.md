@@ -12,14 +12,4 @@ Alterações realizadas:
 - Adicionado link para o arquivo de estilos `flori.css` e meta viewport.
 - Conteúdo inclui duas plantas: Lírio da Paz (Lírio da Paz) e Zamioculca, com descrições, preços e imagens.
 
-Como abrir a página localmente:
-1. Abra o arquivo `index.html` diretamente no seu navegador (duplo clique) ou execute um servidor local simples.
 
-Exemplo de servidor local com Python 3 (na pasta do projeto):
-```
-python -m http.server 8000
-```
-
-Em seguida, abra `http://localhost:8000` no seu navegador.
-
-Observação: os preços foram convertidos para reais (R$) na versão atual.
